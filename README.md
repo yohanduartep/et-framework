@@ -5,4 +5,4 @@
 ### Here are the tables of the bugs collected using all strategies:
 
 #### [All Bugs](https://github.com/yohanduartep/et-framework/blob/main/Tables/ET%20Framework%20-%20All%20Bugs%20Game%2001.pdf)
-#### [Unique Bugs]()
+#### [Unique Bugs](https://github.com/yohanduartep/et-framework/blob/main/Tables/ET%20Framework%20-%20Unique%20Bugs%20Game%2001.pdf)
