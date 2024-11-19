@@ -1,6 +1,5 @@
 # Exploratory Testing Framework
-
-## This page contains the data of et-framework, reported in the paper "Towards a framework for exploratory testing in video games" submitted in ICSE GAS 2025.
+This page contains the data of et-framework, reported in the paper "Towards a framework for exploratory testing in video games" submitted in ICSE GAS 2025.
 
 
 ### The video records can be found [here](https://youtube.com/playlist?list=PLSdOb0Kges6DFdIjuylVqf967WEH0-GrC&si=5NvneOzcC8lS9dZH)
